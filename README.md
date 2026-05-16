@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ronakkk07/LeetCode/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Ronakkk07/LeetCode/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
