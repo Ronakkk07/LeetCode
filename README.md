@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Ronakkk07/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ronakkk07/LeetCode/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Ronakkk07/LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Ronakkk07/LeetCode/tree/master/1922-count-good-numbers) |
 ## Matrix
 |  |
@@ -31,5 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ronakkk07/LeetCode/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Ronakkk07/LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Ronakkk07/LeetCode/tree/master/1922-count-good-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ronakkk07/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ronakkk07/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
