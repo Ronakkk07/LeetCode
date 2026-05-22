@@ -1,4 +1,6 @@
 class Solution:
+    # Time Complexity: O(K*N(Target/m)), where N is the number of elements, and m is the minimum value among the elements. This is because the algorithm explores an exponential number of possible combinations in the worst case, as elements can be chosen repeatedly to form the target.
+    # Space Complexity: O(Target/m), because the deepest recursion and the longest combination both occur when repeatedly choosing the smallest element.
     def function(self, index, n, current, candidates, target, ans):
         if target == 0:
             ans.append(current[:])
