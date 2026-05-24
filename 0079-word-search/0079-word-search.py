@@ -1,4 +1,5 @@
 class Solution:
+    # Time Complexity: O(N * M * 4^L) where N is rows, M is columns and L is the word length; recursive search through board. Space Complexity: O(L)
     def function(self, board, i, j, word, index):
         if index == len(word):
             return True
