@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ronakkk07/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Ronakkk07/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ronakkk07/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ronakkk07/LeetCode/tree/master/0231-power-of-two) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ronakkk07/LeetCode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/Ronakkk07/LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Ronakkk07/LeetCode/tree/master/0231-power-of-two) |
 ## Hash Table
