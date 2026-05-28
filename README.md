@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ronakkk07/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ronakkk07/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Ronakkk07/LeetCode/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/Ronakkk07/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ronakkk07/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ronakkk07/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ronakkk07/LeetCode/tree/master/0136-single-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ronakkk07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ronakkk07/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ronakkk07/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Ronakkk07/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ronakkk07/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ronakkk07/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ronakkk07/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ronakkk07/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Ronakkk07/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ronakkk07/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ronakkk07/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ronakkk07/LeetCode/tree/master/0231-power-of-two) |
