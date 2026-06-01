@@ -9,9 +9,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ronakkk07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Ronakkk07/LeetCode/tree/master/0031-next-permutation) |
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ronakkk07/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Ronakkk07/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ronakkk07/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Ronakkk07/LeetCode/tree/master/0048-rotate-image) |
