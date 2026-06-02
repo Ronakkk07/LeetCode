@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ronakkk07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Ronakkk07/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Ronakkk07/LeetCode/tree/master/0075-sort-colors) |
 ## Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ronakkk07/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ronakkk07/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ronakkk07/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Ronakkk07/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ronakkk07/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ronakkk07/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ronakkk07/LeetCode/tree/master/0090-subsets-ii) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ronakkk07/LeetCode/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ronakkk07/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
