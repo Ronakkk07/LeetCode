@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ronakkk07/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ronakkk07/LeetCode/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Ronakkk07/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/Ronakkk07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Ronakkk07/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Ronakkk07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Math
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ronakkk07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Ronakkk07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ronakkk07/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ronakkk07/LeetCode/tree/master/0229-majority-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ronakkk07/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ronakkk07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ronakkk07/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ronakkk07/LeetCode/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ronakkk07/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ronakkk07/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
