@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ronakkk07/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ronakkk07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Ronakkk07/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ronakkk07/LeetCode/tree/master/0075-sort-colors) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ronakkk07/LeetCode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Ronakkk07/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Ronakkk07/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Ronakkk07/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ronakkk07/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ronakkk07/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Ronakkk07/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ronakkk07/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ronakkk07/LeetCode/tree/master/0088-merge-sorted-array) |
