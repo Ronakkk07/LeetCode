@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ronakkk07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Ronakkk07/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Ronakkk07/LeetCode/tree/master/0509-fibonacci-number) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ronakkk07/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Ronakkk07/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Ronakkk07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ronakkk07/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ronakkk07/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ronakkk07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ronakkk07/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
