@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ronakkk07/LeetCode/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/Ronakkk07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ronakkk07/LeetCode/tree/master/0733-flood-fill) |
 ## Stack
 |  |
@@ -211,6 +212,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Ronakkk07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ronakkk07/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ronakkk07/LeetCode/tree/master/0994-rotting-oranges) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ronakkk07/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ronakkk07/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
