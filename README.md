@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Ronakkk07/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Ronakkk07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Ronakkk07/LeetCode/tree/master/0493-reverse-pairs) |
+| [0542-01-matrix](https://github.com/Ronakkk07/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ronakkk07/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ronakkk07/LeetCode/tree/master/0994-rotting-oranges) |
 ## Math
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ronakkk07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ronakkk07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ronakkk07/LeetCode/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/Ronakkk07/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ronakkk07/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ronakkk07/LeetCode/tree/master/0994-rotting-oranges) |
 ## String
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ronakkk07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Ronakkk07/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Ronakkk07/LeetCode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Ronakkk07/LeetCode/tree/master/0542-01-matrix) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ronakkk07/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ronakkk07/LeetCode/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/Ronakkk07/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ronakkk07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ronakkk07/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ronakkk07/LeetCode/tree/master/0994-rotting-oranges) |
