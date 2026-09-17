@@ -1,24 +1,32 @@
 class Solution:
+    def topoSort(self, V, adj):
+        inDegree = [0] * V
+        for i in range(V):
+            for it in adj[i]:
+                inDegree[it] += 1
+        ans = []
+        q = deque()
+        for i in range(V):
+            if inDegree[i] == 0:
+                q.append(i)
+        while q:
+            node = q.popleft()
+            ans.append(node)
+            for it in adj[node]:
+                inDegree[it] -= 1
+                if inDegree[it] == 0:
+                    q.append(it)
+        return ans
+
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        graph = [[] for _ in range(numCourses)]
-        in_degree = [0] * numCourses
+        adj = [[] for _ in range(numCourses)]
+        for it in prerequisites:
+            u = it[0]
+            v = it[1]
+            adj[v].append(u)
 
-        for course, prereq in prerequisites:
-            graph[prereq].append(course)
-            in_degree[course] += 1
-
-        # Start with all courses that have no prerequisites
-        queue = deque([i for i in range(numCourses) if in_degree[i] == 0])
-        visited_count = 0
-
-        while queue:
-            node = queue.popleft()
-            visited_count += 1
-
-            for neighbor in graph[node]:
-                in_degree[neighbor] -= 1
-                if in_degree[neighbor] == 0:
-                    queue.append(neighbor)
-
-        # If we visited all courses, there's no cycle
-        return visited_count == numCourses
+        topo = self.topoSort(numCourses, adj)
+        if len(topo) < numCourses:
+            return False
+        return True
+        
