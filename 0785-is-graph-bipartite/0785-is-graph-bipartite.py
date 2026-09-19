@@ -1,6 +1,6 @@
 from collections import deque
 class Solution:
-    def bfs(self, start, graph, color):
+    def bfs(self, start, color, graph):
         q = deque([start])
         color[start] = 0
         while q:
@@ -13,6 +13,7 @@ class Solution:
                     return False
         return True
 
+
     def isBipartite(self, graph: List[List[int]]) -> bool:
         # linear graph, even cycle graph - bipartite
         # graph with odd length cycle - not bipartite
@@ -20,7 +21,8 @@ class Solution:
         color = [-1] * V
         for i in range(V):
             if color[i] == -1:
-                if not self.bfs(i, graph, color):
+                if self.bfs(i, color, graph) == False:
                     return False
-        return True 
+        return True
+        
         
